@@ -2,6 +2,8 @@
 
 This app is an e-book viewer for the book [The Adventures of Sherlock Holmes](http://www.gutenberg.org/ebooks/1661).
 
+It displays the text for each chapter, and also includes basic text search functionality.
+
 It is currently deployed to [Heroku](https://ls-rb175-book-viewer-kjhwong.herokuapp.com/).
 
 To run the app locally:
